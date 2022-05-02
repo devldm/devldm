@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my profile, Below i've added some badges of technologies i've used throughout my career and personal coding projects.
+
 ## Technology
 
 ### Languages 
