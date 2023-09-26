@@ -2,6 +2,8 @@
 
 Welcome to my profile, Below i've added some badges of technologies i've used throughout my career and personal coding projects.
 
+Check out my portfolio [here](https://liammorley.vercel.app/)
+
 ## Technology
 
 ### Languages 
