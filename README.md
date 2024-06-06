@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Welcome to my profile, Below i've added some badges of technologies i've used throughout my career and personal coding projects.
-
-Check out my portfolio [here](https://liammorley.vercel.app/)
+I'm currently working as a Software Engineer building GUI's for robots. I also code for fun and am interested in all things technology.
 
 ## Technology
 
